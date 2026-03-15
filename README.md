@@ -1,11 +1,2 @@
-
-  # StubbleTrade Marketplace Platform
-
-  This is a code bundle for StubbleTrade Marketplace Platform. The original project is available at https://www.figma.com/design/jHqMNH8Qk0Hs91QSGLoFFB/StubbleTrade-Marketplace-Platform.
-
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+# stubbletrade
+While farmers desperately burn stubble, industries desperately need it. Biomass power plants, bio-CNG companies, paper mills, mushroom farms — all require crop residue. The supply exists. The demand exists. We connect them.
